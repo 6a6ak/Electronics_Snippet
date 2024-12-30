@@ -1,4 +1,4 @@
-# Voltage Divider Project
+# Voltage Divider
 
 This project demonstrates a voltage divider circuit using two resistors to provide a 3.3V output suitable for a Raspberry Pi port, which requires 3.3V voltage and 1mA current.
 
@@ -8,7 +8,7 @@ A voltage divider is a simple circuit that turns a large voltage into a smaller 
 
 ## Circuit Diagram
 
-![Voltage Divider](view.png)
+![Voltage Divider](Voltage_Divider/view.png)
 
 ## Components
 
