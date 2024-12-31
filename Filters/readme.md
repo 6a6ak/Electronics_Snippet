@@ -53,10 +53,10 @@ This circuit has been updated to implement a low-pass filter configuration. The 
 
 ### Updated Circuit Diagram:
 #### High-Pass Filter:
-![High-Pass Filter Circuit](file-H4St4HoKSFMhgVS2yQHukH)
+![High-Pass Filter Circuit](high.PNG)
 
 #### Low-Pass Filter:
-![Low-Pass Filter Circuit](file-7wn6XrSz9fnUVLGKBfZ3z7)
+![Low-Pass Filter Circuit](Low.PNG)
 
 ## Steps for Simulation
 1. Open the Proteus schematic file.
