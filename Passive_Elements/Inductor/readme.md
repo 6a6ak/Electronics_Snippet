@@ -10,7 +10,7 @@ This document describes the design and functionality of the electronic circuit s
 The circuit includes the following components:
 
 1. **DC Voltage Source (VIN):**
-   - Voltage: 9V
+   - Voltage: 5V
    - Purpose: Provides a constant DC offset to the circuit.
 
 2. **AC Voltage Source (V2):**
