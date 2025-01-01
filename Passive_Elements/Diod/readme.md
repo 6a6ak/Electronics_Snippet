@@ -84,6 +84,3 @@ The second circuit extends the rectifier by adding a capacitor to smooth the out
 3. Document the effect of varying load resistance on ripple voltage.
 
 ---
-
-## Notes
-Make sure to store the images (`Diod01.PNG`, `Diod02.PNG`) in the repository alongside this README file or in a dedicated `images` folder. Update the image paths in the Markdown accordingly.
