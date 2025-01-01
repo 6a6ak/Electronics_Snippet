@@ -3,7 +3,7 @@
 ## Overview
 This document describes the design and functionality of the electronic circuit shown in the Proteus simulation. The circuit combines DC and AC voltage sources to demonstrate the behavior of a basic resistor-capacitor (RC) circuit and later extends to explore the characteristics of an inductor in an AC circuit.
 
-![Inductor Circuit](inductors.png)
+![Inductor Circuit](inductor.png)
 
 
 ## Components
