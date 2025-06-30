@@ -45,4 +45,4 @@ This project demonstrates a basic light detection circuit using an LM393 compara
 - To simulate real-world behavior, replace the fixed voltage (V1) with a solar cell.
 - Add a pull-up resistor (e.g., 10kΩ) to the comparator output for reliable switching, if not already present through the LED path.
 
-![LM393 Light Detection Comparator Circuit](/SollarCell_LED_Controler/SollarCell_LED_Controler.PNG)
+![LM393 Light Detection Comparator Circuit](SollarCell_LED_Controler.PNG)
