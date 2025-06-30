@@ -1,4 +1,4 @@
-# Transistor Amplifier Circuit - Proteus Simulation
+i have this md file as a repo with some other files i eed to add this to that # Transistor Amplifier Circuit - Proteus Simulation
 
 ## Overview
 This project demonstrates a simple **common-emitter transistor amplifier** circuit using a **2N3904 transistor**. The circuit amplifies an AC input signal and provides an amplified output at the collector. This README explains the circuit design, components, and simulation results.
